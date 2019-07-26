@@ -1,0 +1,106 @@
+h2, p {
+   text-align: center;
+   margin-top: 20px;
+}
+
+section {
+  margin: 30px 30px;
+}
+
+
+
+section .intro {
+    margin-top: 20px;
+    text-align: center;
+}
+
+section .intro figure {
+    width: calc(25% - 20px);
+    height: 450px;
+    margin: 30px 10px;
+    float: left;
+    border: 2px solid rgb(11, 221, 204);
+    background-color: aquamarine;
+  }
+
+  section .intro img {
+      width: 200px;
+      height: 200px;
+      margin: auto;
+  }
+
+  section .intro img:hover {
+      opacity: 0;
+  }
+
+  section .intro div.yxte:hover {
+      background-image: url(background/yxte.jpg);
+      background-size: cover;
+  }
+
+  section .intro div.jsf:hover {
+     background-image: url(background/jsf.jpg);
+     background-size: cover; 
+  }
+  
+  section .intro div.flezd:hover {
+    background-image: url(background/flezd.jpg);
+    background-size: cover; 
+ }
+
+ section .intro div.dmxy:hover {
+    background-image: url(background/dmxy.jpg);
+    background-size: cover; 
+ }
+
+ section .intro div.srm:hover {
+    background-image: url(background/srm.jpg);
+    background-size: cover; 
+ }
+
+ section .intro div.ayd:hover {
+    background-image: url(background/ayd.jpg);
+    background-size: cover; 
+ }
+
+ section .intro div.bejwt:hover {
+    background-image: url(background/bejwt.jpg);
+    background-size: cover; 
+ }
+
+ section .intro div.bdec:hover {
+    background-image: url(background/bdec.jpg);
+    background-size: cover; 
+ }
+
+ section .intro div.petwf:hover {
+    background-image: url(background/petwf.jpg);
+    background-size: cover; 
+ }
+
+ section .intro div.za:hover {
+    background-image: url(background/za.jpg);
+    background-size: cover; 
+ }
+
+ section .intro div.aony:hover {
+    background-image: url(background/aony.jpg);
+    background-size: cover; 
+ }
+
+ section .intro div.nkss:hover {
+    background-image: url(background/nkss.jpg);
+    background-size: cover; 
+ }
+
+  section .intro figcaption {
+      text-align: center;
+      font-size: 18px;
+      font-weight: bold;
+      margin-top: 20px;
+  }
+
+  section .intro p {
+      color:rgb(63, 52, 52);
+      margin-top: 20px;
+  }

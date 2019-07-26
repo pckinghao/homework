@@ -1,0 +1,46 @@
+footer {
+    background-color: white;
+}
+
+@font-face {
+    font-family: 'iconfont';
+    /* project id 1292330 */
+    src: url('http://at.alicdn.com/t/font_1292330_ewmz4uy5oza.eot');
+    src: url('http://at.alicdn.com/t/font_1292330_ewmz4uy5oza.eot?#iefix') format('embedded-opentype'),
+        url('http://at.alicdn.com/t/font_1292330_ewmz4uy5oza.woff2') format('woff2'),
+        url('http://at.alicdn.com/t/font_1292330_ewmz4uy5oza.woff') format('woff'),
+        url('http://at.alicdn.com/t/font_1292330_ewmz4uy5oza.ttf') format('truetype'),
+        url('http://at.alicdn.com/t/font_1292330_ewmz4uy5oza.svg#iconfont') format('svg');
+}
+
+.icon {
+    font-family: iconfont;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+.web, .font, .terms {
+    text-align: center;
+    float: left;
+    width: calc(33.33% - 20px);
+    margin: 30px 10px;
+}
+
+.font {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.icon {
+    display: inline-block;
+}
+
+.terms > a {
+    padding: 0 10px;
+    color: yellow;
+}
+
+.terms > a:hover {
+    text-decoration: underline;
+}
+

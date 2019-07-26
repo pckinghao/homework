@@ -1,0 +1,36 @@
+.mation, .message {
+    float: left;
+    width: calc(50% - 20px);
+    margin: 30px 10px;
+}
+
+#text, #email, #tel {
+    width: 100%;
+    height: 100px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+#area {
+    width: 700px;
+    height: 340px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.infor {
+    text-align: center;
+}
+.send {
+    display: inline-block;
+    font-size: 24px;
+    color: #fff;
+    background-color: #f7ba3e;
+    padding: 5px 10px;
+    border-radius: 5px;
+    opacity: 0.7;
+}
+
+.send:hover {
+    opacity: 1;
+}

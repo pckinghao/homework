@@ -1,0 +1,24 @@
+section .map {
+    margin-top: 20px;
+    text-align: center;
+}
+
+section .map img {
+    width: 400px;
+    margin: 0 auto;
+}
+
+section .map figure {
+    width: calc(33.33% - 20px);
+    height: 550px;
+    margin: 30px 10px;
+    float: left;
+}
+
+section .map p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+  

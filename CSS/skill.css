@@ -1,0 +1,23 @@
+section .skill {
+    margin-top: 20px;
+    text-align: center;
+}
+
+section .skill figure {
+    width: calc(20% - 20px);
+    height:350px ;
+    margin: 30px 10px;
+    float: left;
+}
+
+section .skill figure .effect {
+    height: 130px;
+}
+
+section .explain {
+    opacity: 0;
+}
+
+section .explain:hover {
+    opacity: 1;
+}
