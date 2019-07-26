@@ -5,7 +5,7 @@ html, body {
 header {
     height: 100%;
     min-height: 600px;
-    background: url(D:/前端学习/projects/LOL/img/background.jpg) center no-repeat ;
+    background: url(background.jpg) center no-repeat ;
     background-size: cover;
     opacity: 1;
 }
